@@ -2,7 +2,7 @@
 
 Objective:
 
-Here we have 1000 reviews of a restaurant, our objective is to tell about a given review whether it is dipicting a positive or a negative sentiment. We can do this using Natural Language Processing which is a component of AI.
+Here we have 1000 reviews of a restaurant, our objective is to tell about a given review whether it is depicting a positive or a negative sentiment. We can do this using Natural Language Processing which is a component of AI.
 
 Example:
 1) Food was really tasty!!  
